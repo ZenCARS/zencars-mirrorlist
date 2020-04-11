@@ -1,0 +1,3 @@
+#######################################################
+Server = https://zencars.endocluster.com/repos/$repo/$arch
+Server = https://zencars.github.io/$repo/$arch
